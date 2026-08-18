@@ -1,0 +1,440 @@
+IMPORTANT NOTICE: OFFLINE VERSION
+================================================================================
+This document represents the Terms and Conditions at the time of this software
+release. These Terms may be updated over time.
+
+To view the latest, authoritative Terms and Conditions, please visit:
+https://lachie1999.itch.io/octopus-scanner/devlog/933781/terms-conditions
+================================================================================
+
+
+TERMS AND CONDITIONS
+================================================================================
+
+Last updated: 12 May 2026
+
+These Terms and Conditions ("Terms") govern your use of the Octopus Scanner
+application (the "Application") provided by Lachlan Thompson ("Developer").
+Please read them carefully.
+
+Your access to and use of the Application is conditioned upon your full acceptance
+of and compliance with these Terms. These Terms apply to all users who download,
+install, access, or use the Application.
+
+By downloading, installing, or using the Application, you acknowledge that you
+have read, understood, and agree to be bound by these Terms. If you disagree
+with any part of the Terms, you must not install or use the Application.
+
+================================================================================
+1. DESCRIPTION OF APPLICATION
+================================================================================
+
+The Application is a tool designed to assist users in evaluating the accessibility
+of web pages. It utilises browser automation (Puppeteer) to navigate websites
+and accessibility testing engines (Axe-Core) to analyse content against selected
+accessibility standards (e.g., WCAG). It generates reports based on these
+automated checks.
+
+The Application is currently in active development (beta). This means core
+features may be missing, incomplete, or subject to significant change. Features
+may be unstable or prone to errors, and data formats (such as saved configuration
+files) may change between versions without backwards compatibility. Users are
+advised that the software is provided for testing and informational purposes
+only.
+
+================================================================================
+2. LICENCE GRANT
+================================================================================
+
+Subject to your compliance with these Terms, the Developer grants you a free,
+limited, non-exclusive, non-transferable, revocable licence to download,
+install, and use the Application for your personal or internal business purposes.
+Permitted use includes generating accessibility reports for commercial client
+work, provided you do not redistribute the Application binaries themselves.
+
+2.1 Software Protection and Restrictions
+----------------------------------------
+The software is licensed, not sold, and remains the intellectual property of
+the Developer.
+
+You may NOT:
+* Sell, sublicense, rent, lease, or commercially exploit the Application itself
+  (though you may use the Application to generate reports for commercial
+  projects).
+* Copy, distribute, or otherwise share the software binaries or source code in
+  a way not expressly permitted by the Developer.
+* Reverse engineer, decompile, disassemble, or modify the software, except to
+  the extent such activities are expressly permitted by applicable law
+  (including, where applicable, sections 50A-50C and 296A of the Copyright,
+  Designs and Patents Act 1988).
+* Bypass or tamper with any technical protections or integrity checks within
+  the software.
+
+All rights to the software, including updates, enhancements, and derivative
+works, remain with the Developer.
+
+================================================================================
+3. UPDATES AND SUPPORT
+================================================================================
+
+- Updates: The Developer may, at their sole discretion, provide updates or
+  improvements to the Application. You acknowledge that the Developer is under
+  no obligation to provide updates or to continue developing the Application.
+
+- Support: The Application is provided free of charge. Support is offered on a
+  best-effort basis only via the contact details in section 16, and the
+  Developer is under no obligation to respond to bug reports or feature
+  requests within any specified timeframe.
+
+- Maintenance: The Developer makes no binding commitment to a specific roadmap
+  or long-term maintenance schedule.
+
+================================================================================
+4. "AS IS" AND "AS AVAILABLE" DISCLAIMER
+================================================================================
+
+THE APPLICATION IS PROVIDED "AS IS", "AS AVAILABLE", AND "WITH ALL FAULTS".
+
+You assume full responsibility and risk for using the Application. The Developer
+makes no warranties, express or implied, including but not limited to fitness
+for a particular purpose, non-infringement, or that the Application will be
+error-free, reliable, or secure.
+
+================================================================================
+5. USER RESPONSIBILITIES
+================================================================================
+
+- Authorisation & Lawful Use: You warrant that you have all necessary legal
+  rights and explicit permission to scan any URLs or files you use with the
+  Application. You are solely responsible for complying with the Terms of
+  Service, Robots.txt policies, and access restrictions of any website you scan.
+
+- System and Resource Impact: You acknowledge that scans may consume significant
+  computing resources and load target websites. You agree to use the Application
+  responsibly and configure it appropriately to avoid harm or disruption.
+
+- Automated Interaction Risks: The Application includes features ("Deep Scan" or
+  "Interaction Scanning") that automatically interact with web page elements
+  (clicking buttons, expanding menus). You acknowledge that these automated
+  actions may inadvertently trigger state changes, modify database records, or
+  perform destructive actions depending on the target application's design.
+  YOU AGREE NOT TO USE INTERACTION SCANNING MODES ON PRODUCTION ENVIRONMENTS
+  WHERE DATA MODIFICATION IS A RISK.
+
+- Interpretation of Results: Automated accessibility testing is not
+  comprehensive. Results require human interpretation by a qualified
+  professional. The Application's output is informational and does not guarantee
+  accessibility compliance or legal conformance.
+
+- No Legal Advice: The Application is a technical testing tool, not a legal
+  compliance service. A "pass" result from this Application does not guarantee
+  that a website complies with the Americans with Disabilities Act (ADA), the
+  Equality Act 2010 (UK), or any other legislation. The Developer does not
+  provide legal advice, and the Application's reports should not be used as the
+  sole basis for legal defence or compliance certification.
+
+- Sensitive Data in Recordings: The Application includes features to record user
+  interactions ("User Journeys"). You acknowledge that these recordings may
+  capture sensitive data (e.g., passwords, personal information) if you input
+  them during a recording session. You agree that you are solely responsible
+  for sanitising scripts and securing any files containing such recordings. The
+  Developer is not liable for any exposure of sensitive data resulting from
+  your creation or sharing of User Journey scripts.
+
+- Security: You are solely responsible for maintaining the security of your
+  systems, credentials, and data while using the Application.
+
+================================================================================
+6. LIMITATION OF LIABILITY
+================================================================================
+
+NOTHING IN THESE TERMS LIMITS OR EXCLUDES THE DEVELOPER'S LIABILITY FOR DEATH OR
+PERSONAL INJURY CAUSED BY NEGLIGENCE, FOR FRAUD OR FRAUDULENT MISREPRESENTATION,
+OR FOR ANY OTHER LIABILITY WHICH CANNOT BE LAWFULLY LIMITED OR EXCLUDED UNDER
+THE LAWS OF ENGLAND AND WALES (INCLUDING ANY RIGHTS YOU MAY HAVE AS A CONSUMER
+UNDER THE CONSUMER RIGHTS ACT 2015).
+
+Subject to the above, TO THE MAXIMUM EXTENT PERMITTED UNDER APPLICABLE LAW, THE
+DEVELOPER SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO:
+
+* Loss of data, business, revenue, or profits
+* Computer system failure or malfunction
+* Legal liability from unauthorised scans or misuse
+* Network Blocking: You acknowledge that the aggressive use of automated
+  scanning tools may result in your IP address or domain being blocked by
+  target websites or Internet Service Providers. The Developer is not
+  responsible for any such blocks, bans, or service interruptions resulting
+  from your use of the Application.
+
+This applies regardless of the theory of liability (contract, tort, etc.) and
+even if the Developer has been advised of the possibility of such damages.
+
+You use the Application at your own risk and assume full responsibility for
+any outcomes.
+
+================================================================================
+7. DISCLAIMER OF RESPONSIBILITY FOR USER CONDUCT
+================================================================================
+
+You acknowledge and agree that you are solely and entirely responsible for your
+use of the Application and for any and all consequences that arise from such
+use. The Developer provides the Application as a neutral tool and has no control
+over, and assumes no liability for, how you use it. Any action you take with the
+Application, including but not limited to the scanning of websites, systems, or
+files, is performed at your own risk and discretion. The Developer is not
+responsible for any unlawful, unethical, or damaging use of the Application by
+you or any third party.
+
+================================================================================
+8. INDEMNIFICATION
+================================================================================
+
+If you use the Application other than as a consumer (for example, in the course
+of a business, profession, or trade), you agree to indemnify, defend, and hold
+harmless the Developer from and against any and all claims, liabilities,
+damages, losses, or expenses (including reasonable legal fees and costs)
+arising out of or in any way connected with your access to or use of the
+Application, your violation of these Terms, or your infringement of any
+third-party rights, including intellectual property rights.
+
+If you use the Application as a consumer, you remain responsible for your own
+acts and omissions in connection with the Application, but this section 8 does
+not impose any additional indemnity obligation on you beyond what is permitted
+by applicable consumer law.
+
+================================================================================
+9. AGE RESTRICTION
+================================================================================
+
+By downloading and using the Application, you represent that you are at least
+18 years of age or the age of legal majority in your jurisdiction. If you are
+not, you are not permitted to use the Application.
+
+================================================================================
+10. INTELLECTUAL PROPERTY
+================================================================================
+
+The Application and all original content provided (excluding open-source
+dependencies) are the exclusive property of the Developer.
+
+The Application makes use of certain open-source components such as Puppeteer
+and Axe-Core, which are each governed by their own respective licences. Full
+legal notices and attribution for these components are provided in Section 20.
+
+10.1 Ownership of Generated Content
+-----------------------------------
+You retain all rights, title, and interest in and to the data, reports,
+screenshots, and logs generated by your use of the Application ("Output").
+The Developer claims no ownership over this Output. You are solely responsible
+for the content of the Output and its compliance with applicable laws.
+
+================================================================================
+11. USER FEEDBACK
+================================================================================
+
+If you provide the Developer with any ideas, feedback, or suggestions regarding
+the Application ("Feedback"), you grant the Developer a worldwide, perpetual,
+irrevocable, royalty-free, fully-paid licence to use, modify, and incorporate
+such Feedback into its products and services without any obligation or
+compensation to you.
+
+================================================================================
+12. PROHIBITED USES
+================================================================================
+
+You agree not to use the Application:
+- To scan websites or systems without proper authorisation.
+- For any unlawful or unethical purpose.
+- To conduct denial-of-service attacks or otherwise disrupt systems.
+- To infringe on the intellectual property or privacy rights of others.
+- To harvest, scrape, or extract data in violation of applicable laws or
+  site terms.
+
+================================================================================
+13. TERMINATION
+================================================================================
+
+The Developer may terminate your licence to use the Application at any time
+without notice if you violate these Terms. Upon termination, you must cease
+all use and destroy any copies of the Application in your possession.
+Termination of your licence does not entitle you to any refund (the Application
+being provided free of charge) and does not affect any rights or obligations
+that by their nature should survive termination.
+
+================================================================================
+14. MODIFICATIONS TO TERMS
+================================================================================
+
+The Developer may modify these Terms from time to time, for example to reflect
+changes in the Application, in applicable law, or in operational practice.
+Material changes will be notified via the Application's official product page,
+and the "Last updated" date at the top of these Terms will be revised
+accordingly. Continued use of the Application after such notice constitutes
+your acceptance of the updated Terms. If you do not accept the modified Terms,
+you must cease using the Application.
+
+================================================================================
+15. GOVERNING LAW AND JURISDICTION
+================================================================================
+
+Governing Law: These Terms are governed by and construed in accordance with the
+laws of England and Wales.
+
+Jurisdiction: You agree that the courts of England and Wales shall have
+exclusive jurisdiction to settle any dispute or claim arising out of or in
+connection with these Terms or their subject matter or formation (including
+non-contractual disputes or claims).
+
+================================================================================
+16. CONTACT
+================================================================================
+
+For any questions regarding these Terms, or to report a bug, please contact the
+Developer at accessibilityscanner@icloud.com.
+
+================================================================================
+17. EXPORT COMPLIANCE
+================================================================================
+
+You agree to comply with all applicable export laws and regulations. The
+Application may not be downloaded or used in any country subject to United
+Kingdom or international sanctions or embargoes.
+
+================================================================================
+18. SOFTWARE INTEGRITY
+================================================================================
+
+The Developer may include technical measures to ensure software integrity. You
+agree not to bypass, disable, tamper with, or circumvent such protections,
+except to the extent such activities are expressly permitted by applicable law.
+
+================================================================================
+19. SEVERABILITY AND ENTIRE AGREEMENT
+================================================================================
+
+If any provision of these Terms is found to be invalid or unenforceable by a
+court, the remaining provisions will continue in full force and effect.
+
+These Terms constitute the entire agreement between you and the Developer
+concerning the Application, superseding any prior agreements or understandings.
+
+================================================================================
+20. THIRD-PARTY AND OPEN-SOURCE SOFTWARE
+================================================================================
+
+The Application incorporates software components from the open-source community,
+each of which is subject to its own licence. Your use of the Application is also
+governed by the terms of these licences.
+
+Axe-core
+--------
+This software uses the Axe-core accessibility engine, which is distributed under
+the Mozilla Public Licence, Version 2.0 (MPL 2.0).
+Project Source: https://github.com/dequelabs/axe-core
+Licence Text: https://www.mozilla.org/en-US/MPL/2.0/
+
+Puppeteer
+---------
+This software uses Puppeteer, which is distributed under the Apache Licence,
+Version 2.0.
+Project Source: https://github.com/puppeteer/puppeteer
+Licence Text: https://www.apache.org/licenses/LICENSE-2.0
+
+A complete list of all open-source libraries and their respective licences used
+within the Application is provided in the file THIRD_PARTY_LICENCES.txt, which
+is distributed with this software. By using the Application, you acknowledge and
+agree to the terms of these third-party licences.
+
+The mention of specific third-party software (e.g., Axe-core, Puppeteer) is for
+attribution and informational purposes only. The Application is not endorsed by,
+affiliated with, or sponsored by Deque Systems, Inc., Google LLC, or the
+respective maintainers of these projects.
+
+================================================================================
+21. LEGAL DISCLAIMER (OPEN SOURCE)
+================================================================================
+
+THE OPEN-SOURCE COMPONENTS LISTED ABOVE, AND IN THIRD_PARTY_LICENCES.txt, ARE
+PROVIDED "AS IS" AND WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT
+NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS OF THE OPEN-SOURCE SOFTWARE BE LIABLE FOR ANY CLAIMS, DAMAGES,
+OR OTHER LIABILITY ARISING FROM THE USE OF SUCH SOFTWARE. YOUR RIGHTS UNDER THE
+LICENCES FOR THESE COMPONENTS ARE NOT LIMITED BY OUR OWN TERMS AND CONDITIONS.
+
+================================================================================
+22. PRIVACY AND DATA HANDLING
+================================================================================
+
+The Application is a local-only tool. It performs all accessibility scans on
+your own machine and does NOT transmit, collect, store, or share any scan data,
+telemetry, usage analytics, or personal information with the Developer or any
+third party.
+
+No account or registration is required to use the Application, and the
+Developer has no visibility into which websites you scan, what results you
+produce, or how you use the Application.
+
+Any communication you voluntarily initiate with the Developer (for example,
+sending a bug report to accessibilityscanner@icloud.com, or attaching a
+diagnostic file via the in-app "Report Bug" feature) is handled solely for the
+purpose of responding to your enquiry, and is retained only for as long as is
+reasonably necessary for that purpose. The Developer does not use any contact
+information for marketing or any other purpose, and does not share it with
+third parties.
+
+Data controller responsibility for scan content: When you scan a website, any
+personal data captured incidentally in the resulting reports, screenshots, or
+logs is created on your machine and remains under your sole control. You are
+the data controller for any such personal data within the meaning of the UK
+GDPR and the Data Protection Act 2018. The Developer is not a processor of, and
+has no access to, this data.
+
+Diagnostic exports: The in-app "Export Bug Data" feature generates a diagnostic
+JSON file on your local machine. This file is not transmitted automatically. It
+is your decision whether to share it, and your responsibility to review its
+contents (which may include URLs you have scanned) before doing so.
+
+The Application is distributed via third-party platforms (such as itch.io)
+which may collect their own data (for example, download statistics or IP
+addresses) under their own privacy policies. The Developer has no control over,
+and no responsibility for, the data practices of those platforms.
+
+================================================================================
+23. FORCE MAJEURE
+================================================================================
+
+The Developer will not be liable for any failure to perform any of its
+obligations under these Terms if the performance is prevented, hindered, or
+delayed by a Force Majeure Event. A "Force Majeure Event" means any event
+beyond the reasonable control of the Developer, including but not limited to:
+acts of God, natural disasters, fire, flood, earthquake; war, terrorism, civil
+unrest, or government action; pandemic, epidemic, or public health emergency;
+failure or unavailability of the internet, hosting providers, third-party
+platforms, or open-source dependencies; power, telecommunications, or
+supply-chain failures; cyberattack, data breach, or denial-of-service activity
+directed at infrastructure the Developer relies upon; and any change in
+applicable law that prevents lawful provision of the Application.
+
+================================================================================
+24. ASSIGNMENT
+================================================================================
+
+The Developer may assign or transfer its rights and obligations under these
+Terms to a third party at any time, provided that the assignee accepts the
+obligations under these Terms. You may not assign or transfer your rights or
+obligations.
+
+================================================================================
+25. GENERAL PROVISIONS
+================================================================================
+
+- Survival: Any provisions of these Terms that by their nature should survive
+  termination shall survive termination, including, without limitation,
+  ownership provisions, warranty disclaimers, indemnity, and limitations of
+  liability.
+- No Waiver: The failure of the Developer to enforce any right or provision of
+  these Terms will not be considered a waiver of those rights.
+- Interpretation: The headings in these Terms are for convenience only and have
+  no legal or contractual effect.
