@@ -1,12 +1,19 @@
 # 🦑 Octopus Scanner — Download Mirror
 
-Official GitHub Download Mirror.
+Official GitHub Download Mirror.  
+**Official Host:** [lachie1999.itch.io/octopus-scanner](https://lachie1999.itch.io/octopus-scanner)
+
+The main purpose of this is to archive upcoming Octopus Scanner releases and ensure documentation has a backup from Itch.io.
 
 ---
 
 ## 🌊 Overview
 
 **Octopus Scanner** is a privacy-focused, user-friendly desktop application for local web accessibility auditing. It receives monthly dependency patches and provides bleeding-edge access to the latest accessibility rules and checks from one of the industry's most trusted accessibility engines.
+
+---
+
+* **Contact & Bug Reports:** [octopusscanner@icloud.com](mailto:octopusscanner@icloud.com)
 
 ---
 
